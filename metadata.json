@@ -1,0 +1,5 @@
+{
+  "name": "VideoSceneFlow ",
+  "description": "AI-powered video storyboard creator. Upload media or prompts to generate consistent 1-minute video plans with scripts and visual descriptions.",
+  "requestFramePermissions": []
+}

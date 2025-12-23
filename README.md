@@ -1,8 +1,10 @@
 # 🎬 VideoSceneFlow AI
 
 **VideoSceneFlow AI** is a professional-grade video storyboarding and pre-visualization tool powered by the Google Gemini API. It transforms raw ideas, images, or videos into detailed, consistent, and cinematic storyboards tailored for modern social media and film production.
+LIVE DEMO : - **AI Studio App**: [VideoSceneFlow on AI Studio](https://ai.studio/apps/drive/1DtdtmnDh_jZtRjxMtK-pw_I_Fiwh-5E2?fullscreenApplet=true)
 
 ---
+<img width="2132" height="1833" alt="image" src="https://github.com/user-attachments/assets/23f97b3f-24cc-4419-b078-8d282f0d7898" />
 
 ## 🌟 Key Features
 
